@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abichat
 - 👀 I’m interested in R, statistical methods and biological applications
-- 💼 I’m working at Servier.
+- 💼 Currently working at Spotlight Medical, after previous roles at Enterome and Servier
 - 📫 [LinkedIn](https://www.linkedin.com/in/antoinebichat/)
 
 <!---
